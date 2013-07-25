@@ -1,0 +1,3 @@
+These are the drawings I found online of the brackets to do a direct connection to ball screws. I'm going to use these as a building block to design something that will work for our machine. This will give us a starting block to build from and with any luck all of the mounting holes will line up...
+
+Jim
